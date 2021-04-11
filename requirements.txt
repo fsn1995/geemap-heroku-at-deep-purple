@@ -1,4 +1,4 @@
 voila
-git+git://github.com/giswqs/geemap.git
 pandas
 altair
+git+git://github.com/giswqs/geemap.git
